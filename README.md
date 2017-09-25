@@ -1,4 +1,4 @@
 [![Build Status](https://travis-ci.org/ScarlettOverkill/myDemoApp.svg?branch=master)](https://travis-ci.org/ScarlettOverkill/myDemoApp)
 
-[Demo site: (https://obscure-island-13023.herokuapp.com/)] | https://git.heroku.com/obscure-island-13023.git
+[Demo site: https://fierce-island-32077.herokuapp.com/] | https://git.heroku.com/fierce-island-32077.git
 
